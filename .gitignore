@@ -1,0 +1,7 @@
+# Ignore semua file Roblox Studio
+*.rbxl
+*.rbxlx
+
+# Ignore semua file dokumen Word
+*.docx
+*.doc
